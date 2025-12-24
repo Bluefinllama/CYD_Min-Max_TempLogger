@@ -22,3 +22,6 @@ When things function normally, the LED should light up green intermittently indi
 
 This is the exact device I purchased (the link might become unavailable in the future):
 https://www.temu.com/goods.html?_bg_fs=1&goods_id=601101590266969&_oak_stage=6&_oak_page_source=703&top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F8426ccc7-f7f3-468e-870e-680f9f65aeef.jpg&refer_page_name=home&refer_page_id=10005_1766426406051_fpfrn48qh8&refer_page_sn=10005&_x_sessn_id=dip2alamwp&no_cache_id=mx76d
+
+And of course, I would've have been able to make this without the extensive knowledge on offer from Brian Lough on his ESP32-Cheap-Yellow-Display repo:
+https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display/tree/main?tab=readme-ov-file
